@@ -9,8 +9,6 @@ This is a simple Express API that connects to a MongoDB database and provides en
 - [Installation](#installation)
 - [Usage](#usage)
 - [Endpoints](#endpoints)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
